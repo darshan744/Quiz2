@@ -1047,10 +1047,10 @@ const questions = [
                 q: "Montane sub-tropical forests do not include",
                 options: ["broadleaved forests", "pine forests", "semi-evergreen forests", "dry evergreen forests"],
                 answer: 2
-              }
-          
-      
-  
+              },{ q: "Which of these is not a non-use value?", options: ["direct value", "existence value", "altruistic value", "bequest value"], answer: 0 },
+              { q: "Which of these is abiotic factor?", options: ["vines", "trees", "reptiles", "water"], answer: 3 },
+              { q: "Which of these has the highest organic matter content?", options: ["peaty soil", "alluvial soil", "saline soil", "red and yellow soil"], answer: 0 },
+              { q: "Allowing some places and some creatures to exist without significant human interference is a definition of", options: ["conservation", "preservation", "environmentalism", "all of these"], answer: 1 }
     ]
 
 const form = document.getElementById("quizForm");
