@@ -17,7 +17,7 @@ const questions = [
         "legal definition of forests",
         "ecological definition of forests"
       ],
-      answer: 1
+      answer: 3
     },
     {
       q: "According to the Supreme Court, the word forest must be understood according to its",
