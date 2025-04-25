@@ -1057,7 +1057,7 @@ const form = document.getElementById("quizForm");
 
 // Generate 10 lessons with 10 questions each
 const lessons = [];
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 12; i++) {
   lessons.push({
     title: `Lesson ${i + 1}`, 
     questions: questions.slice(i * 10, (i + 1) * 10) // Slice 10 questions for each lesson
